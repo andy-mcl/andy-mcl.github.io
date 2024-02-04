@@ -1,3 +1,3 @@
 # andy-mcl.github.io
 
-Welcome to my page!
+Welcome to my readme!
